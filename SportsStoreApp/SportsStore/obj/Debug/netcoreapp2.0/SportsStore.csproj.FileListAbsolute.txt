@@ -1,0 +1,21 @@
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\adam\Documents\Books\Pro Entity Framework Core for MVC Developers\Source Code\Current\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\Damjan\Desktop\MVC-APP\pro-ef-core-2-for-asp.net-core-mvc\08 - SportsStore - Scaling Up\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\Damjan\Desktop\MVC-APP\pro-ef-core-2-for-asp.net-core-mvc\08 - SportsStore - Scaling Up\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\Damjan\Desktop\MVC-APP\pro-ef-core-2-for-asp.net-core-mvc\08 - SportsStore - Scaling Up\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\Damjan\Desktop\MVC-APP\pro-ef-core-2-for-asp.net-core-mvc\08 - SportsStore - Scaling Up\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\Damjan\Desktop\MVC-APP\pro-ef-core-2-for-asp.net-core-mvc\08 - SportsStore - Scaling Up\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\Damjan\Desktop\MVC-APP\pro-ef-core-2-for-asp.net-core-mvc\08 - SportsStore - Scaling Up\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\Damjan\Desktop\MVC-APP\pro-ef-core-2-for-asp.net-core-mvc\08 - SportsStore - Scaling Up\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Damjan\Desktop\MVC-APP\pro-ef-core-2-for-asp.net-core-mvc\08 - SportsStore - Scaling Up\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Damjan\Desktop\MVC-APP\pro-ef-core-2-for-asp.net-core-mvc\08 - SportsStore - Scaling Up\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\Damjan\Desktop\MVC-APP\pro-ef-core-2-for-asp.net-core-mvc\08 - SportsStore - Scaling Up\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\Damjan\Desktop\MVC-APP\pro-ef-core-2-for-asp.net-core-mvc\08 - SportsStore - Scaling Up\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
